@@ -411,6 +411,13 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/Hellopal007>
+            <img src=https://avatars.githubusercontent.com/u/183968252?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Hellopal007/>
+            <br />
+            <sub style="font-size:14px"><b>Hellopal007</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/TheRedCyclops>
             <img src=https://avatars.githubusercontent.com/u/76230780?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=TheRedCyclops/>
             <br />
