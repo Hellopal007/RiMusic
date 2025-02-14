@@ -286,14 +286,21 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/Hellopal007>
+            <img src=https://avatars.githubusercontent.com/u/183968252?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Hellopal007/>
+            <br />
+            <sub style="font-size:14px"><b>Hellopal007</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/Bnyro>
             <img src=https://avatars.githubusercontent.com/u/82752168?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bnyro/>
             <br />
             <sub style="font-size:14px"><b>Bnyro</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/25huizengek1>
             <img src=https://avatars.githubusercontent.com/u/50515369?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=25huizengek1/>
@@ -329,6 +336,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Luigi Russo</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/locxter>
             <img src=https://avatars.githubusercontent.com/u/54595101?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luca Schultz/>
@@ -336,8 +345,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Luca Schultz</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/davidsalido>
             <img src=https://avatars.githubusercontent.com/u/46091673?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=davidsalido/>
@@ -373,6 +380,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Sheldon Menezes</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/roklc>
             <img src=https://avatars.githubusercontent.com/u/142526268?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rokic/>
@@ -380,8 +389,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Rokic</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/RohanTemgire>
             <img src=https://avatars.githubusercontent.com/u/56552357?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=RohanTemgire/>
@@ -408,13 +415,6 @@ WARNING, the custom version is not an official release, download only if invited
             <img src=https://avatars.githubusercontent.com/u/8018823?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Iscle/>
             <br />
             <sub style="font-size:14px"><b>Iscle</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/Hellopal007>
-            <img src=https://avatars.githubusercontent.com/u/183968252?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Hellopal007/>
-            <br />
-            <sub style="font-size:14px"><b>Hellopal007</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
