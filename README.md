@@ -235,12 +235,21 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/Hellopal007>
+            <img src=https://avatars.githubusercontent.com/u/183968252?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Hellopal007/>
+            <br />
+            <sub style="font-size:14px"><b>Hellopal007</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/muhaaliss>
             <img src=https://avatars.githubusercontent.com/u/102979224?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Muha Aliss/>
             <br />
             <sub style="font-size:14px"><b>Muha Aliss</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/sayyid5416>
             <img src=https://avatars.githubusercontent.com/u/78584556?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sayyid/>
@@ -248,8 +257,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Sayyid</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/S0nter>
             <img src=https://avatars.githubusercontent.com/u/108224581?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sonter/>
@@ -283,13 +290,6 @@ WARNING, the custom version is not an official release, download only if invited
             <img src=https://avatars.githubusercontent.com/u/95717211?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=KalyaSc/>
             <br />
             <sub style="font-size:14px"><b>KalyaSc</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/Hellopal007>
-            <img src=https://avatars.githubusercontent.com/u/183968252?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Hellopal007/>
-            <br />
-            <sub style="font-size:14px"><b>Hellopal007</b></sub>
         </a>
     </td>
 </tr>
